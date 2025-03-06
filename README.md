@@ -1,4 +1,5 @@
 MERN Stack Project
+(Didn't complete the apps frontend though.:)
 
 1️⃣ Clone the Repository  
 ```sh
